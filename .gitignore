@@ -1,0 +1,31 @@
+.DS_Store
+
+out
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+dist/
+build/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+# UV
+*.lock
+
+# IDE
+.idea/
+.vscode/
+
+*.iml
+
+# Node / docx scripts
+node_modules/
+package-lock.json
+package.json
+
+# Claude Code
+.claude/
