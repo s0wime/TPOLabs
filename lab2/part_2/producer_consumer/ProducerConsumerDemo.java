@@ -1,4 +1,4 @@
-﻿package part_2.producer_consumer;
+package part_2.producer_consumer;
 
 /**
  * Tests the Producer-Consumer pattern with a bounded buffer of integers.

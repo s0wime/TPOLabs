@@ -1,4 +1,4 @@
-﻿package part_4.printers;
+package part_4.printers;
 
 /**
  * Task 4: Three threads print '|', '\', '/'

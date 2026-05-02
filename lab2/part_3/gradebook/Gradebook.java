@@ -1,4 +1,4 @@
-﻿package part_3.gradebook;
+package part_3.gradebook;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;

@@ -1,4 +1,4 @@
-﻿package part_3.gradebook;
+package part_3.gradebook;
 
 /**
  * Runs the electronic gradebook: one lecturer and three assistants assign
